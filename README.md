@@ -1,25 +1,9 @@
 
-# Project Title
-
-A brief description of what this project does and who it's for
+# Weather web app
 
 ## Tech Stack
 
 **Client:** HTML, CSS, JavaScript, API
-
-## Demo
-
-Insert gif or link to demo
-
-## Features
-
-- Feature 1
-- Feature 2
-- Feature 3
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 ## Run Locally
 
@@ -50,7 +34,7 @@ Open with live server
 
 ## Authors
 
-- [@codewithsadee](https://www.github.com/codewithsadee)
+- [@Aayush-1205](https://github.com/Aayush-1205)
 
 ## License
 
